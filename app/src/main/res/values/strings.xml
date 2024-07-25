@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VibeBox</string>
+    <string name="room_id">Room ID :</string>
+</resources>
